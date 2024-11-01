@@ -1,0 +1,8 @@
+.wp_breadcrumb_label
+{
+    width: 200px;
+    float: left;
+    margin: 1px;
+    padding: 3px;
+    font-style: italic;
+}
